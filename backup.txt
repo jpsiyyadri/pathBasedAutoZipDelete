@@ -1,0 +1,4 @@
+file_1|data/file_1.txt|4
+file_2|data/file_2.txt|4
+file_3|data/file_3.txt|4
+file_4|config/dah2_purge.conf|1
